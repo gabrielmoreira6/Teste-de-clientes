@@ -1,6 +1,0 @@
-Instruções para upload da foto:
-
-1. Faça o upload da sua foto para esta pasta (public/fotos).
-2. Você pode arrastar e soltar a imagem aqui ou usar o botão de upload do editor de arquivos.
-3. Recomendamos renomear a foto para algo simples como "eduarda.jpg" ou "foto.jpg".
-4. Assim que subir o arquivo, me avise o nome dele e eu irei atualizar a foto na página do aplicativo e também na página para download!
